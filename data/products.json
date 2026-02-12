@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fones de Ouvido",
+    "price": 199.99,
+    "image": "/imgs/fone.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "price": 299.99,
+    "image": "/imgs/relogio.png"
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": 1499.99,
+    "image": "/imgs/tablet.png"
+  },
+  {
+    "id": 4,
+    "name": "Tênis",
+    "price": 349.99,
+    "image": "/imgs/tenis.png"
+  }
+]
